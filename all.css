@@ -1,0 +1,13 @@
+p{
+    color: chartreuse;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "標楷體";
+}
+.content{
+    width: 300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
